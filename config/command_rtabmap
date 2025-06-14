@@ -1,0 +1,7 @@
+1. Add a world 
+2. generate a map.
+3. downlload map
+4. Navigation.
+
+ros2 launch rtabmap_launch rtabmap.launch.py rtabmap_args:="--delete_db_on_start"   rgb_topic:=/front_camera/image_raw   depth_topic:=/front_camera/depth/image_raw   camera_info_topic:=/front_camera/camera_info   frame_id:=front_camera_link   approx_sync:=true   rviz:=true
+
