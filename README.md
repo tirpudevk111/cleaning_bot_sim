@@ -44,4 +44,4 @@ This repository contains a ROS 2 simulation for a robot having depth cameras usi
 ![Image](files/Screenshot from 2025-06-16 19-58-00.png)
 
 ## Ros2 Topic list
-![Image](files/Screenshot from 2025-06-16 19-49-30.png)
+![Image](files/ros2_topics.png)
