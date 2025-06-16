@@ -1,6 +1,6 @@
 # Cleaning Bot Simulation
 
-This repository contains a ROS 2 simulation for a robot having depth cameras using Gazebo Classic and RTAB-Map for SLAM.
+This repository contains a ROS 2 simulation for a robot having depth cameras using Gazebo Classic and RTAB-Map for SLAM. You will be ablle to generate the 3D RGBD map with the following commands.
 
 ## Prerequisites
 
