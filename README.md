@@ -34,14 +34,14 @@ This repository contains a ROS 2 simulation for a robot having depth cameras usi
    ros2 launch rtabmap_launch rtabmap.launch.py rtabmap_args:="--delete_db_on_start"   rgb_topic:=/front_camera/image_raw   depth_topic:=/front_camera/depth/image_raw   camera_info_topic:=/front_camera/camera_info   frame_id:=front_camera_link   approx_sync:=true   rviz:=true
    ```
 ## 3D RGBD map with rtabmap
-![Image](files/Screenshot from 2025-06-16 19-51-48.png)
-![Image](files/Screenshot from 2025-06-16 19-54-19.png)
+![Image](files/rgbd_rtabmap.png)
+![Image](files/rgbd_rtabmap2.png)
 
 ## RViz2 
-![Image](files/Screenshot from 2025-06-16 19-55-53.png)
+![Image](files/rgbd_rviz2.png)
 
 ## Depth perseption of left fron and right camera in rqt
-![Image](files/Screenshot from 2025-06-16 19-58-00.png)
+![Image](files/depth_poreception_rqt.png)
 
 ## Ros2 Topic list
 ![Image](files/ros2_topics.png)
